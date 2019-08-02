@@ -2,9 +2,11 @@
   "name": "my-app-full",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https:///unbeatable-abayomi.github.io/meal-ingrido",
   "dependencies": {
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
+    "gh-pages": "^2.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-icons": "^3.7.0",
